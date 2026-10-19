@@ -4,7 +4,7 @@
 
 ## 下载
 
-当前正式版为 [ResearchClock 1.2.0](https://github.com/Zhuohangithub/researchclock-releases/releases/tag/v1.2.0)。下载 `ResearchClock-1.2.0-Setup-x64.exe`，也可通过 [最新版页面](https://github.com/Zhuohangithub/researchclock-releases/releases/latest) 获取后续更新。
+当前正式版为 [ResearchClock 1.2.2](https://github.com/Zhuohangithub/researchclock-releases/releases/tag/v1.2.2)。下载 `ResearchClock-1.2.2-Setup-x64.exe`，也可通过 [最新版页面](https://github.com/Zhuohangithub/researchclock-releases/releases/latest) 获取后续更新。
 
 安装向导支持选择程序位置。新用户可在首次启动时选择资料目录；已有用户在“设置与备份”迁移资料。
 
@@ -13,6 +13,12 @@
 1. 导出完整备份，并从托盘退出程序。
 2. 卸载旧版，保留科研资料。
 3. 安装当前最新版，新版会识别原资料。
+
+## 1.2.2 更新
+
+- 每日邮件改为全部未完成待办：过期朱红色，今天及明天橙色，后天及以后蓝色；完成事项自动排除。
+- 邮件全部字体放大 50%，正文为 24px，标题、图例和页脚同步放大。应用内预览展示相同效果。
+- 学生与课题汇报间隔继续保留。
 
 ## 1.2.0 新增
 

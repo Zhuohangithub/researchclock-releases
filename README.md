@@ -1,2 +1,23 @@
-# researchclock-releases
-ResearchClock Windows 下载与版本说明；仅发布安装器和更新文件。
+# ResearchClock · 科研时钟
+
+中文 Windows x64 桌面程序，用于学生科研汇报提醒、进度记录及通过邮件 ZIP 分享只读进展。
+
+## 下载
+
+请在 [Releases](https://github.com/Zhuohangithub/researchclock-releases/releases) 中下载已正式发布版本的 `ResearchClock-版本号-Setup-x64.exe`。首次正式版本正在准备中。
+
+安装向导支持选择程序位置。新用户可在首次启动时选择资料目录；已有用户在“设置与备份”迁移资料。
+
+## 从 1.0 升级
+
+1. 导出完整备份，并从托盘退出程序。
+2. 卸载旧版，保留科研资料。
+3. 安装 1.1，新版会识别原资料。
+
+## 程序更新
+
+程序默认每 24 小时检查一次正式版本。检查不会自动下载；下载后需点击“重启并安装”才执行更新。离线时科研记录、提醒及邮件进度包仍可使用。
+
+此仓库仅保存下载说明、版本说明和发布文件。`latest.yml` 与 `.blockmap` 供更新程序使用。GitHub 自动生成的 Source code 压缩包仅包含本公开仓库的说明文件，不包含应用的私有源码。
+
+当前安装器未进行付费代码签名。

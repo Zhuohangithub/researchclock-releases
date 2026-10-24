@@ -4,7 +4,7 @@
 
 ## 下载
 
-当前正式版为 [ResearchClock 1.2.2](https://github.com/Zhuohangithub/researchclock-releases/releases/tag/v1.2.2)。下载 `ResearchClock-1.2.2-Setup-x64.exe`，也可通过 [最新版页面](https://github.com/Zhuohangithub/researchclock-releases/releases/latest) 获取后续更新。
+当前正式版为 [ResearchClock 1.2.3](https://github.com/Zhuohangithub/researchclock-releases/releases/tag/v1.2.3)。下载 `ResearchClock-1.2.3-Setup-x64.exe`，也可通过 [最新版页面](https://github.com/Zhuohangithub/researchclock-releases/releases/latest) 获取后续更新。
 
 安装向导支持选择程序位置。新用户可在首次启动时选择资料目录；已有用户在“设置与备份”迁移资料。
 
@@ -13,6 +13,11 @@
 1. 导出完整备份，并从托盘退出程序。
 2. 卸载旧版，保留科研资料。
 3. 安装当前最新版，新版会识别原资料。
+
+## 1.2.3 更新
+
+- 新增大模型 API 设置：支持配置兼容 OpenAI 接口的 Base URL、API Key（本机加密存储）与模型名称，并支持一键从服务商索引模型列表。
+- 新增自然语言生成日程计划：支持在新建日程弹窗内一句话拆解时间与事项，也支持在日历页将录音转写笔记批量转换为多条日程草稿（自动关联学生与课题）。
 
 ## 1.2.2 更新
 
